@@ -12,9 +12,13 @@ import com.example.demo.services.ProductServices;
 
 @Controller
 public class HomeController 
-{
+{       
 	@Autowired
 	private ProductServices productServices;
+	@GetMapping("/")
+	public String home(){
+		return "index";
+	}
 	@GetMapping("/home")
 	public String home()
 	{
