@@ -13,8 +13,6 @@ public class AdminServices
 {
 	@Autowired
 	private AdminRepository adminRepository;
-	
-
 	public List<Admin>getAll()
 	{
 		 List<Admin> admins = (List<Admin>)this.adminRepository.findAll();
