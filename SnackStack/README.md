@@ -14,9 +14,6 @@ Keep track of your inventory items, including stock levels and pricing. Effectiv
 ### Order Management
 Manage customer orders with ease, including order creation, tracking, and fulfillment. Streamline your order processing for improved customer satisfaction.
 
-### User Authentication
-Implement secure login and authentication for admin and staff members. Protect sensitive information and control access to different parts of the application.
-
 ### Role-Based Access Control
 Define roles and permissions for different user types. Ensure that each team member has the appropriate level of access for their responsibilities.
 
