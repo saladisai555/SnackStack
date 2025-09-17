@@ -24,7 +24,7 @@ Define roles and permissions for different user types. Ensure that each team mem
 Utilize Thymeleaf for dynamic HTML templates. Create interactive and user-friendly web pages with server-side rendering.
 
 ### Database Integration
-Integrated with MySQL for data storage. Ensure reliable and scalable data management to support your application's functionality.
+Integrated with PostgreSQL for data storage. Ensure reliable and scalable data management to support your application's functionality.
 
 ## Technologies Used
 
